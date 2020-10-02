@@ -1,1 +1,100 @@
-# patrick-the-lego-mans-website-github.io-
+# patrick-the-lego-mans-website-github.io-<html>
+	<head>
+		 <link type="text/css" rel="stylesheet" href="main.css" />
+		 <title>
+			The Lego Club aka TLC
+		 </title>
+			<marquee>
+				<h1 style="color:blue;">
+					legos rock!
+				</h1>
+		 </marquee>
+		 											<hr/>
+			<nav> 
+				 <ul id="navmenu">
+					<li class="navitem"> <a href="index.html.html">Home</a> </li>
+					<li class="navitem"> <a href="games.html">Games</a> </li>
+					<li class="navitem"> <a href="videos.html">Videos</a> </li>
+					<li class="navitem"> <a href="photos.html">photos</a> </li>
+			</ul>
+		</nav>
+															<hr/>
+		
+	</head>
+	<br></br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/4sHDDUFn4t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture?rel=0" allowfullscreen> </iframe>
+	<br></br>
+	<body id="pds">
+		<header id="banner">
+		 <center>
+			<h1>
+				 Take cool pictures of <span id="span"> your </span> lego creations and post them here!
+			</h1>
+		</center>
+		 </header>
+									<br></br>
+
+												<hr/>
+		<p class="ps">
+			 <i>Hey,</i> all you lego fans out there! This is my lego club that I coded for <b>people</b> to post their cool lego creations to so that <b>people</b> can get inspiration for there <u>own</u> creations! I hope that <b>people</b> will benefit from my website.
+		</p>
+
+												<hr/>
+		<ol>
+			<li class="pl"> 
+				 My theme for my website  is legos.
+			</li>
+	 
+			<li class="pl">
+				 My website is for poeple to post there lego pictures on. 
+			</li>
+	 
+			<li class="pl"> 
+				 Bilding with legos is fun!
+			</li>
+		</ol>
+		<div id="wrap-around">
+		<h1 style="color:tan;">
+			Lego Trivia Question:
+		</h1>
+		<P> 
+			When was the Lego black seas  barracuda ship first made? 
+		</P>
+
+		<form>  
+			<input type="radio" name="trivia" value="no"> 1969 
+												<br/>
+			<input type="radio" name="trivia" value="no"> 1889 
+												<br/>
+			<input type="radio" name="trivia" value="yes"> 1989
+												<br/>
+			<input type="radio" name="trivia" value="no"> 2019 
+											 <br/>     
+			<input type="button" value="submit your answer here!" id="button">
+												<br/>
+		</form>
+		</br>
+			 <div id="ship">
+			 | This is the <i> Black Seas Barracuda.<i/>
+											<br/>
+			 \/
+											<br/>
+			 <img width="100%" src="https://images-na.ssl-images-amazon.com/images/I/71XhbcYA5EL._AC_SL1170_.jpg" />
+			 </div>
+			 <div class="list">
+				<p>images</p>
+			 <img  width="25%" src="https://images.stockfreeimages.com/8306/sfixl/83065847.jpg" />
+			 <img width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1200px-LEGO_logo.svg.png">
+			 <img  width="35%"  src="https://images.unsplash.com/photo-1544816565-c199d6f5d2d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"  />
+			 <img  width="35%"  src="https://images.unsplash.com/photo-1544816565-aa8c1166648f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"/>
+			<img  width="35%"  src="https://images.unsplash.com/photo-1558492426-df14e290aefa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"/> 
+			<img with="25%" src="https://images.unsplash.com/photo-1596146828740-8a0117f437e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd &auto=format&fit=crop&w=500&q=60">
+			</div>
+		<center>
+		 patrick 
+			<a href="https://simplycoding.org/code-dungeon/">My Favorite website</a> 
+		</center>
+		<input type="color">
+		<footer id="footer"> Patrick.D.Slocum created this website. </footer>
+	</body>
+</html>
